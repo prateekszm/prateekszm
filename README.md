@@ -6,8 +6,8 @@
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [Potfolio](#)
 - ✉️  You can contact me at [iiprateek@outlook.com](mailto:iiprateek@outlook.com)
-- 🧠  I'm learning React js
-- 🤝  I'm open to collaborating on web development
+- 🧠  I'm learning Spring and Spring boot
+- 🤝  I'm open to collaborating on web development using Spring Boot as backend and React as front end
 - ⚡  Andrew Garfield is my favorite spiderman
 
 
