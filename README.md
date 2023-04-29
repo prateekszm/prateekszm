@@ -3,7 +3,7 @@
 
 ## Web Developer and Designer
 
-- 🌍  I'm based in India
+- 🌍  I'm based in Nepal
 - 🖥️  See my portfolio at [Potfolio](#)
 - ✉️  You can contact me at [iiprateek@outlook.com](mailto:iiprateek@outlook.com)
 - 🧠  I'm learning Spring and Spring boot
